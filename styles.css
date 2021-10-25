@@ -54,7 +54,20 @@ body.beaches-bg {
   margin:auto;
   margin-bottom:30px;
 		}
-
+.food {background-color:black;
+	padding: 20px;
+  width:700px;
+  border: 10px solid white;
+  margin:auto;
+  margin-bottom:30px;
+		}
+.home {background-color:black;
+	padding: 20px;
+  width:700px;
+  border: 10px solid white;
+  margin:auto;
+  margin-bottom:30px;
+		}
 nav #nav {
 	color:white;
 	text-align:center;
